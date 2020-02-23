@@ -1,1 +1,1 @@
-description file (chenge in origin for remote)
+description file (chenge in origin for remote repo)
